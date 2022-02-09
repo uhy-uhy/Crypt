@@ -1,8 +1,8 @@
 # Crypt
 仮想通貨がんばるぞ！
 
-編集方法わかりません。
-あと完成図も、Qiitaみたいなのを目指している？
+完成図どんな感じ、Qiitaみたいなのを目指している？<br>
+画像の貼り方がわかりません。教えて教えて
 <br><br><br>
 
 
@@ -16,4 +16,7 @@ https://www.bybit.com/ja-JP/trade/spot/MV/USDT<br><br>
 
 #### ２０２２０２０９＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br>
 https://note.com/lingeth/n/nb68b44f10242
-<br>Move2Earn。そういうのもあるのか。<br>
+<br>・Move2Earn。そういうのもあるのか。<br><br>
+
+https://www.fisco.co.jp/media/crypto/dex-ranking/ <br>
+・DEXについて。分散型取引所の略。正直トレントファイルの進化系じゃね？<br>
