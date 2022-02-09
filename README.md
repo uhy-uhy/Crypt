@@ -12,10 +12,8 @@
 https://genso.game/staking/ja/<br>
 <br>
 チャートもエグい上がってる（いつまで続くかな？）<br>
-https://www.bybit.com/ja-JP/trade/spot/MV/USDT<br>
-#### <br>________________________________________________２０２２０２０８<br><br>
+https://www.bybit.com/ja-JP/trade/spot/MV/USDT<br><br>
 
 #### ２０２２０２０９＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br>
 https://note.com/lingeth/n/nb68b44f10242
 <br>Move2Earn。そういうのもあるのか。<br>
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
