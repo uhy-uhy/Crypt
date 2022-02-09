@@ -24,4 +24,7 @@ https://www.fisco.co.jp/media/crypto/dex-ranking/ <br>
 https://kakuduke-tsuka.com/ido/
 <br>
 ・仮想通貨には、IDOとIEOとICOがあるのじゃ（PS２のゲームではない）
+<br><br>
+https://note.com/juliusroar/n/n369349ca0ac5
 <br>
+仮想通貨界のLunchpadは、仮想通貨プロジェクトに投資できるプラットフォームらしいのじゃ（初めて知った）
