@@ -20,3 +20,7 @@ https://note.com/lingeth/n/nb68b44f10242
 
 https://www.fisco.co.jp/media/crypto/dex-ranking/ <br>
 ・DEXについて。分散型取引所の略。正直トレントファイルの進化系じゃね？<br>
+<br>
+https://kakuduke-tsuka.com/ido/
+・仮想通貨には、IDOとIEOとICOがあるのじゃ（PS２のゲームではない）
+<br>
