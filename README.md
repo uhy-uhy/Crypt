@@ -56,8 +56,9 @@ https://coin.z.com/jp/
 <br>https://www.bybit.com/ja-JP/invite?ref=WVMWKX
 <br>バイビット。元素戦士のMV売ってるのここだけ。ほか結構有名らしいけど、使ってないからわからん。
 <br>
-<br>
-質問あればどうぞ。あくまで初心者情報だから鵜呑みは禁物
+<br><br>
+質問あればどうぞ。
+<br>あくまで初心者情報だから鵜呑みは禁物
 
 
 
