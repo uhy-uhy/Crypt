@@ -16,7 +16,7 @@ https://www.bybit.com/ja-JP/trade/spot/MV/USDT<br><br>
 
 #### ２０２２０２０９＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br>
 https://note.com/lingeth/n/nb68b44f10242
-<br>・Move2Earn。そういうのもあるのか。<br>追記、初期投資６万円（の靴が）かかるらしい。誰かくれ<br>
+<br>・Move2Earn。そういうのもあるのか。追記：初期投資６万円（の靴が）かかるらしい。誰かくれ<br><br>
 
 https://www.fisco.co.jp/media/crypto/dex-ranking/ <br>
 ・DEXについて。分散型取引所の略。正直トレントファイルの進化系じゃね？<br>
