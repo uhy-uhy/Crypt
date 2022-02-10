@@ -41,24 +41,26 @@ https://bitflyer.com/invitation?id=dcyjxfxo&lang=ja-JP
 <br><br>
 https://coin.z.com/jp/
 <br>国内取引所その２。GMOコイン。取引所は送金手数料が大切ぞ（他色々）。
-<br><br>
+<br><br><br>
+
 
 海外取引所。
+<br>仮想通貨の百貨店と言おうと思ったけど、ゴミも売ってるから仮想通貨のドンキホーテ<br>
 <br>https://www.gate.io/ref/10040207
-<br>魔境の入り口、ゲート。海外取引所で真っ先に上がるほど有名所。入金は無料だけど、送金は少し掛かる。どこもそんなもんか
+<br>その１。魔境の入り口、ゲート。海外取引所で真っ先に上がるほど有名所。入金は無料だけど、送金は少し掛かる。どこもそんなもんか
 <br>
 <br>https://www.kucoin.com/ja/land/kcs-game/one-coin-web/home
-<br>草コイン（違う）。あんま使ってないけど、マイナー通貨なら任せとけって言ってたよ彼。
+<br>その２。草コイン（違う）。あんま使ってないけど、マイナー通貨なら任せとけって言ってたよ彼。
 <br>
 <br>https://www.binance.com/ja/activity/referral-entry?fromActivityPage=true&ref=LIMIT_VLT4YQII
-<br>バイナンス。取引所の独自通貨BNBが強い。中国版のイーサリアムを目指してるんかな。
+<br>その３。バイナンス。取引所の独自通貨BNBが強い。中国版のイーサリアムを目指してるんかな。
 <br>
 <br>https://www.bybit.com/ja-JP/invite?ref=WVMWKX
-<br>バイビット。元素戦士のMV売ってるのここだけ。ほか結構有名らしいけど、使ってないからわからん。
+<br>その４。バイビット。元素戦士のMV売ってるのここだけ。ほか結構有名らしいけど、使ってないからわからん。
 <br>
 <br><br>
 質問あればどうぞ。
-<br>あくまで初心者情報だから鵜呑みは禁物
+<br>あくまで初心者情報だから期待はすな
 
 
 
