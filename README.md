@@ -2,8 +2,10 @@
 仮想通貨がんばるぞ！
 
 完成図どんな感じ、Qiitaみたいなのを目指している？<br>
-画像の貼り方がわかりません。教えて教えて
-<br><br><br>
+画像の貼り方がわかりません。教えて教えて  
+<img src="https://github.com/uhy-uhy/Crypt/blob/main/Ch1hKE5VIAAJhS6.jpeg" height="100px" />
+<img src="https://github.com/uhy-uhy/Crypt/blob/main/Ch1hKE5VIAAJhS6.jpeg" height="150px" />
+<br><br>
 
 
 #### ２０２２０２０８___________________________________________________<br><br>
