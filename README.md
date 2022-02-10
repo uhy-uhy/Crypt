@@ -64,8 +64,7 @@ https://coin.z.com/jp/
 <br><br>https://hedge.guide/feature/nft-technology-bc202109.html
 <br>・仮想通貨のレイヤーは5つもあるらしいぞ。そんなにいらんだろ
 
-
-
-
-
+<br>
+https://jp.cointelegraph.com/news/vitalik-buterin-gives-thumbs-down-to-cross-chain-applications?utm_source=coinview
+<br>
 
