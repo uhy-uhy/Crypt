@@ -62,10 +62,11 @@ https://coin.z.com/jp/
 <br>https://akilog50.com/crypt_category/#outline__1_4
 <br>・わかりやすい仮想通貨分類。これが1番わかりやすいと思います。
 <br><br>https://hedge.guide/feature/nft-technology-bc202109.html
-<br>・仮想通貨のレイヤーは5つもあるらしいぞ。そんなにいらんだろ
-
+<br>・仮想通貨のレイヤーは5つもあるらしいぞ。そんなにいらんだろ<br>
 <br>
-#### ２０２２０２１３＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+### 20220213______________________________________________<br>
 <br>
 https://jp.cointelegraph.com/news/vitalik-buterin-gives-thumbs-down-to-cross-chain-applications?utm_source=coinvieMb
 <br>
