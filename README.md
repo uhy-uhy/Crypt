@@ -65,6 +65,16 @@ https://coin.z.com/jp/
 <br>・仮想通貨のレイヤーは5つもあるらしいぞ。そんなにいらんだろ
 
 <br>
-https://jp.cointelegraph.com/news/vitalik-buterin-gives-thumbs-down-to-cross-chain-applications?utm_source=coinview
+#### ２０２２０２１３＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 <br>
+https://jp.cointelegraph.com/news/vitalik-buterin-gives-thumbs-down-to-cross-chain-applications?utm_source=coinvieMb
+<br>
+https://bitcoin.dmm.com/glossary/scalability_issues
+<br>
+・スケーラビリティ問題。ビットコインの処理が遅いとか言われる原因の話。
+<br><br>
+https://bitcoin.dmm.com/column/0193
+<br>
+・セカンドレイヤーは、スケーラビリティ問題を解決する為にあるらしい。セキュリティの細かい仕様大事だけどついていくのが大変。
+<br><br><br>
 
